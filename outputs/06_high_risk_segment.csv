@@ -1,0 +1,3 @@
+segment,customers,churn_rate_pct,pct_of_all_churn,churned_monthly_revenue
+High risk segment,954,63.1,32.2,43703.0
+Everyone else,6089,20.8,67.8,95428.0
